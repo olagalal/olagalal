@@ -28,9 +28,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown         11 mins         ████████████████▒░░░░░░░░   65.32 %
-GitIgnore file   4 mins          ███████░░░░░░░░░░░░░░░░░░   28.39 %
-Other            0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+Other            6 hrs 49 mins   ████████████████████████░   96.13 %
 ```
 
 <!--END_SECTION:waka-->
