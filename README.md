@@ -32,7 +32,7 @@
 
 </p>
 
-<h3>Monthly Development Breakdown</h3>
+<h3>Weekly Development Breakdown</h3>
 
 <!--START_SECTION:waka-->
 
