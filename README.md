@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=olagalal.olagalal)
 
-<p>✨ I'm Software Engineer from <b>Egypt</b>. Interested in Web Development and Machine Learning. Always striving for impactful projects and broadening my skills. 🚀👩🏻‍💻</p>
+<p>✨ I'm Teaching Assistant at <a href="https://uofcanada.edu.eg/">UofCanada</a> in Egypt. Interested in Web Development and Machine Learning. Always striving for impactful projects and broadening my skills. 🚀👩🏻‍💻</p> 
 
 <h3>SKILLS</h3>
 Languages:
