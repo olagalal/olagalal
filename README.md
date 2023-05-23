@@ -2,6 +2,8 @@
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=olagalal.olagalal) -->
 
+<img src="https://komarev.com/ghpvc/?username=olagalal&label=Profile%20views&color=lightgrey&style=plastic" alt="olagalal" />
+
 <p>✨ I'm Teaching Assistant at <a href="https://uofcanada.edu.eg/">UofCanada</a> in Egypt. Interested in Web Development and Machine Learning. Always striving for impactful projects and broadening my skills. 🚀👩🏻‍💻</p> 
 
 <h3>SKILLS</h3>
