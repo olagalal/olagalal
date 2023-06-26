@@ -50,8 +50,9 @@ Tools:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   1 hr 46 mins    █████████████████████████   99.82 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Python   2 hrs 26 mins   ████████████████░░░░░░░░░   63.60 %
+JSON     1 hr 23 mins    █████████░░░░░░░░░░░░░░░░   36.27 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
