@@ -50,7 +50,9 @@ Tools:
 <!--START_SECTION:waka-->
 
 ```txt
-Assembly   3 mins          █████████████████████████   100.00 %
+Prolog     1 hr 2 mins     ██████████████▓░░░░░░░░░░   58.51 %
+Python     40 mins         █████████▓░░░░░░░░░░░░░░░   38.35 %
+Assembly   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
 ```
 
 <!--END_SECTION:waka-->
