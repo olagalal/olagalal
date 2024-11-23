@@ -12,12 +12,12 @@ Languages:
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
   <img alt="html" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />  
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" /> 
+<!--   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" />  -->
 </p>
 Frameworks:
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img alt="bootstrap" src="https://img.shields.io/badge/-bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" />
+<!--   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" /> -->
+<!--   <img alt="bootstrap" src="https://img.shields.io/badge/-bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" /> -->
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="ExpressJs" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white" />
   <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black" />
