@@ -1,7 +1,5 @@
 ### Hello, I'm Ola Galal 👋
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=olagalal.olagalal) -->
-
 <img src="https://komarev.com/ghpvc/?username=olagalal&label=Profile%20views&color=lightgrey&style=plastic" alt="olagalal" />
 
 <p>✨ I'm Teaching Assistant at <a href="https://uofcanada.edu.eg/">UofCanada</a> in Egypt. Interested in Web Development and Machine Learning. Always striving for impactful projects and broadening my skills. 🚀👩🏻‍💻</p> 
@@ -44,18 +42,3 @@ Tools:
   <img alt="git" src="https://img.shields.io/badge/-Git-444444?style=flat-square&logo=git&logoColor=white" />
   <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-444444?style=flat-square&logo=LaTeX&logoColor=white" />  
 </p>
-
-<h3>Weekly Development Breakdown</h3>
-
-<!--START_SECTION:waka-->
-
-```txt
-Python           31 hrs 39 mins  ███████████████▓░░░░░░░░░   62.74 %
-Gosu             3 hrs 51 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
-Text             3 hrs 38 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
-Java             3 hrs 22 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
-HTML             2 hrs 2 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-```
-
-<!--END_SECTION:waka-->
-
