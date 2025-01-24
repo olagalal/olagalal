@@ -2,7 +2,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=olagalal&label=Profile%20views&color=lightgrey&style=plastic" alt="olagalal" />
 
-<p>✨ I'm Teaching Assistant at <a href="https://uofcanada.edu.eg/">UofCanada</a> in Egypt. Interested in Web Development and Machine Learning. Always striving for impactful projects and broadening my skills. 🚀👩🏻‍💻</p> 
+<p>✨ I'm Machine Learning Engineer at <a href="https://copilotinnovations.com/">CoPilot Innovations</a>. Interested in Artificial Intelligence, Machine Learning and Web Development. I enjoy building impactful projects and continually exploring new technologies to grow my expertise. 🚀👩🏻‍💻</p> 
+
 
 <h3>SKILLS</h3>
 Languages:
